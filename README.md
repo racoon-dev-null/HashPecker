@@ -3,7 +3,6 @@
 <p align="center">
   A fast, lightweight MD5 password cracker written in pure C.<br>
  
-
 ---
 
 ## Overview
