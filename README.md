@@ -2,8 +2,6 @@
 
 <p align="center">
   A fast, lightweight multi-hash password cracker written in pure C.<br>
-  Designed as a core utility for the future <b>Anteater OS</b> ecosystem.
-</p>
 
 ---
 
